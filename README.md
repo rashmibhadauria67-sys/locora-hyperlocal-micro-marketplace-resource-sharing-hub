@@ -9,9 +9,7 @@ Quick start
 ```bash
 cd backend
 npm install
-cp .env.example .env
-# or copy .env.local to .env for local development
-# set MONGO_URI and JWT_SECRET in .env
+# create a .env file and set MONGO_URI and JWT_SECRET
 npm run dev
 ```
 
@@ -20,8 +18,7 @@ npm run dev
 ```bash
 cd frontend
 npm install
-cp .env.example .env.local
-# set VITE_API_URL if using a remote backend
+# create a .env.local file and set VITE_API_URL if using a remote backend
 npm run dev
 ```
 
@@ -38,4 +35,4 @@ Deployment
 
 Assets
 
-Place `logo.png`, `logo-192.png`, and `logo-512.png` in `frontend/public` before deploying.
+The current frontend branding asset is available at `frontend/public/logo.svg`.
