@@ -1,6 +1,6 @@
 import { getToken, getRefresh, saveToken, saveRefresh, removeToken, removeRefresh } from './auth'
 
-const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:5000/api'
+const API_BASE = import.meta.env.VITE_API_URL || 'https://locora-hyperlocal-micro-marketplace.onrender.com/api'
 
 async function parseJson(res) {
     try {

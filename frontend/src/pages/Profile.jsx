@@ -13,7 +13,7 @@ export default function Profile() {
                 return
             }
 
-            const res = await fetch((import.meta.env.VITE_API_URL || 'http://localhost:5000/api') + '/auth/me', {
+            const res = await fetch((import.meta.env.VITE_API_URL || 'https://locora-hyperlocal-micro-marketplace.onrender.com/api') + '/auth/me', {
                 headers: { Authorization: `Bearer ${token}` }
             })
             const data = await res.json().catch(() => null)
