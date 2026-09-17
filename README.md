@@ -30,8 +30,8 @@ Local environment files
 
 Deployment
 
-- Frontend: deploy `/frontend` to Vercel. Set `VITE_API_URL` to your backend URL.
-- Backend: deploy `/backend` to Render. Set `MONGO_URI` and `JWT_SECRET` on Render.
+- Frontend: deploy `/frontend` to Render. Set `VITE_API_URL` to your backend URL.
+- Backend: deploy `/backend` to Render. Set `MONGO_URI`, `JWT_SECRET`, and `REFRESH_TOKEN_SECRET` on Render.
 
 Assets
 
