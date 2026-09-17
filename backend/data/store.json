@@ -1,0 +1,287 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Demo User",
+      "email": "demo@locora.local",
+      "password": "$2a$10$0g2yv4x2GQXMZKCqGBdq/e32G3n96J.w.CLiPbKo2j9QScJu7ce8G",
+      "createdAt": "2026-06-23T14:39:52.854Z"
+    },
+    {
+      "id": "1782638789980",
+      "name": "rashmi",
+      "email": "12rashmi@gmail.com",
+      "password": "$2a$10$OAM.plXvAmIQPFVHap6meedIs.dBriMW1u8kSMnocy2vJJ1z.9/7q",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI2Mzg3ODk5ODAiLCJpYXQiOjE3ODI5MTA3ODUsImV4cCI6MTc4MzUxNTU4NX0.1B3LNKlcl14pxSLcVeIzT51X5v3w7wSRX_zlwDqY6q0"
+      ],
+      "createdAt": "2026-06-28T09:26:29.980Z"
+    },
+    {
+      "id": "1782910291816",
+      "name": "Demo User",
+      "email": "demo@example.com",
+      "password": "$2a$10$gCThy75Wkw/NpcywBSdheOX0qs.Z71mFcXFPcXFFWPcZeGnREGAZW",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTAyOTE4MTYiLCJpYXQiOjE3ODI5MTAyOTEsImV4cCI6MTc4MzUxNTA5MX0.Q3fkmhDSL6ZK6ylW4-fdzZu_6wDMEI6qiOBcSpvkTAs"
+      ],
+      "createdAt": "2026-07-01T12:51:31.817Z"
+    },
+    {
+      "id": "1782910478324",
+      "name": "Demo User",
+      "email": "demo3@example.com",
+      "password": "$2a$10$mCqeFv4pGfKAyjXbcZG8Ueo47qavLxSGuB3KcXaQEsUytUbgUjj6K",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTA0NzgzMjQiLCJpYXQiOjE3ODI5MTA0NzgsImV4cCI6MTc4MzUxNTI3OH0.KYxt7zm8C6JjAK_DxzE6glJlQG-Hix7YI38j-So8p3k"
+      ],
+      "createdAt": "2026-07-01T12:54:38.324Z"
+    },
+    {
+      "id": "1782910582574",
+      "name": "Demo User",
+      "email": "demo4@example.com",
+      "password": "$2a$10$wu99tzg4ekDKy1DcbvEQ7OX./C3DQzJ07A9JEJpbFDi4tc.uIunci",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTA1ODI1NzQiLCJpYXQiOjE3ODI5MTA1ODIsImV4cCI6MTc4MzUxNTM4Mn0.pPcI-3iG2uNjrDfHQtoLMTjlpasEKsGjy7SrpkEohLo"
+      ],
+      "createdAt": "2026-07-01T12:56:22.574Z"
+    },
+    {
+      "id": "1782910595087",
+      "name": "Demo User",
+      "email": "demo5@example.com",
+      "password": "$2a$10$JevAml0KrOCCA6gY1p7vP.5whcFL1VtzRAKO7HnU7m0Ss2b6mSZXG",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTA1OTUwODciLCJpYXQiOjE3ODI5MTA1OTUsImV4cCI6MTc4MzUxNTM5NX0.Tp_agP47yamenCDiE9Lcf5sW0_swke0_aXDWIsRYhvY",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTA1OTUwODciLCJpYXQiOjE3ODI5MjAwNzEsImV4cCI6MTc4MzUyNDg3MX0.0xZuO3V0zXsloIjw4RPbLpsdT-IfWSOaPTGTRtyCveY"
+      ],
+      "createdAt": "2026-07-01T12:56:35.087Z"
+    },
+    {
+      "id": "1782911128407",
+      "name": "Final User",
+      "email": "finaluser@example.com",
+      "password": "$2a$10$sKybzyEmt3ewiRH755E1m.PRXGzusIVEDrCBk1h65IkpqhfcfuUKC",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTExMjg0MDciLCJpYXQiOjE3ODI5MTExMjgsImV4cCI6MTc4MzUxNTkyOH0.Ce7Xo0kEs-8F-Q2WBePU6fK7tsLex-hrvANmSojsxrs"
+      ],
+      "createdAt": "2026-07-01T13:05:28.407Z"
+    },
+    {
+      "id": "1782912275614",
+      "name": "Demo User",
+      "email": "demouser@example.com",
+      "password": "$2a$10$/5x27/0U38GkSjxFWcYj8O352goFa0r728O7n7Ztn8sfY0X7rFWGq",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTIyNzU2MTQiLCJpYXQiOjE3ODI5MTIyNzUsImV4cCI6MTc4MzUxNzA3NX0.5yrlv6qj59EdQtxZpRjxO2ybEiP2KsYKRf0zJhazvQE"
+      ],
+      "createdAt": "2026-07-01T13:24:35.614Z"
+    },
+    {
+      "id": "1782912558388",
+      "name": "Notify User",
+      "email": "notify@example.com",
+      "password": "$2a$10$y0FY1wrS60kEThekPeEmLOOPpXXimbVwlNol7HXPewe3xbOoQez9m",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTI1NTgzODgiLCJpYXQiOjE3ODI5MTI1NTgsImV4cCI6MTc4MzUxNzM1OH0.oAX8Ae_VY5d_CAi3jgrks_4ot8BbpFbX06HDsxSmmHI"
+      ],
+      "createdAt": "2026-07-01T13:29:18.388Z"
+    },
+    {
+      "id": "1782912978580",
+      "name": "Share User",
+      "email": "shareuser@example.com",
+      "password": "$2a$10$xfRfg4nfHj3.3PlEDc.v5O9OcMDmfIinW8zgZqOE.fYPF6HKOKg8O",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTI5Nzg1ODAiLCJpYXQiOjE3ODI5MTI5NzgsImV4cCI6MTc4MzUxNzc3OH0.6rGDIFqosPrPI9uI7hTwmjgDXXXgfKKLSiRJ2vO8Nsk",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTI5Nzg1ODAiLCJpYXQiOjE3ODI5MTI5OTksImV4cCI6MTc4MzUxNzc5OX0.wsqHLLfEYo9Jw4UegHxUX0RLF-QQ8Gt9k5unML_llZ4",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTI5Nzg1ODAiLCJpYXQiOjE3ODI5MTMwMDcsImV4cCI6MTc4MzUxNzgwN30.j8nxLu06RpbqYXAVNcpZIbx40_IrBhFOck1UcMeqFdA",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTI5Nzg1ODAiLCJpYXQiOjE3ODI5MTMxMjUsImV4cCI6MTc4MzUxNzkyNX0.xrd5Fs5_Q8uR7DF37MHtcNthioVFT8xMg6WTdXCxcgE",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTI5Nzg1ODAiLCJpYXQiOjE3ODI5MTMyODAsImV4cCI6MTc4MzUxODA4MH0.VHun3HVB9mubWaN_Kd8wi_B4TFGK_GsxybHx81S_3DA"
+      ],
+      "createdAt": "2026-07-01T13:36:18.580Z"
+    },
+    {
+      "id": "1782913395447",
+      "name": "radha",
+      "email": "radha12@gamil.com",
+      "password": "$2a$10$wIQ6sqyeeUcGDbtnqB7ImeHggls7oU4HqKwRsPHZyRPIkTwX4ZaEq",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTMzOTU0NDciLCJpYXQiOjE3ODI5MjAwNjgsImV4cCI6MTc4MzUyNDg2OH0.mTKr3uNBRjB2hWZ_Qvl2sQT0ljsVxYw6Bw5MmTNEHJY",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODI5MTMzOTU0NDciLCJpYXQiOjE3ODI5MjAwNzAsImV4cCI6MTc4MzUyNDg3MH0.E3IwGy38UAclEpQIaZwJco_C8HYbzy1hcMS5Zj-3vss"
+      ],
+      "createdAt": "2026-07-01T13:43:15.447Z"
+    },
+    {
+      "id": "1789622939737",
+      "name": "bjgug",
+      "email": "hujghuj",
+      "password": "$2a$10$IfWFFQ1wp/.HFZdGPF6mduAAQjc3HkNtqnuurcYgcMQSUQ6SFdqWy",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3ODk2MjI5Mzk3MzciLCJpYXQiOjE3ODk2MjI5MzksImV4cCI6MTc5MDIyNzczOX0.T9cwFK-Yr2rc3Yil4JEhkzTfEmxpGLe9i-wuZuNpkes"
+      ],
+      "createdAt": "2026-09-17T05:28:59.737Z"
+    }
+  ],
+  "items": [
+    {
+      "id": "i1",
+      "title": "Demo Drill",
+      "description": "Cordless drill for borrowing",
+      "type": "Borrow",
+      "createdAt": "2026-06-23T14:39:52.874Z"
+    },
+    {
+      "id": "i2",
+      "title": "Demo Pickles",
+      "description": "Homemade pickles",
+      "type": "Order",
+      "createdAt": "2026-06-23T14:39:52.894Z"
+    },
+    {
+      "id": "1782638829840",
+      "title": "book rs agarwal",
+      "description": "2022 edition",
+      "type": "Offer",
+      "createdAt": "2026-06-28T09:27:09.840Z"
+    },
+    {
+      "id": "1782640214140",
+      "title": "book in",
+      "description": "50 rupee",
+      "type": "Offer",
+      "createdAt": "2026-06-28T09:50:14.140Z"
+    },
+    {
+      "id": "1782640401522",
+      "title": "bottle",
+      "description": "50 rupee",
+      "type": "Offer",
+      "createdAt": "2026-06-28T09:53:21.522Z"
+    },
+    {
+      "id": "1782640454360",
+      "title": "dress",
+      "description": "210",
+      "type": "Offer",
+      "createdAt": "2026-06-28T09:54:14.360Z"
+    },
+    {
+      "id": "1782910595229",
+      "title": "Pressure cooker available",
+      "description": "Good condition",
+      "contact": "demo5@example.com",
+      "type": "Offer",
+      "location": "Downtown",
+      "owner": "1782910595087",
+      "createdAt": "2026-07-01T12:56:35.229Z"
+    },
+    {
+      "id": "1782911128448",
+      "title": "Drill available",
+      "description": "Cordless drill good condition",
+      "contact": "finaluser@example.com",
+      "type": "Offer",
+      "location": "Northside",
+      "owner": "1782911128407",
+      "createdAt": "2026-07-01T13:05:28.448Z"
+    },
+    {
+      "id": "1782911176567",
+      "title": "Drill available",
+      "description": "Cordless drill good condition",
+      "contact": "demo5@example.com",
+      "type": "Offer",
+      "location": "Northside",
+      "owner": "1782910595087",
+      "createdAt": "2026-07-01T13:06:16.567Z"
+    },
+    {
+      "id": "1782912275654",
+      "title": "Pressure cooker available",
+      "description": "Good condition",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
+      "contact": "demo@example.com",
+      "type": "Offer",
+      "location": "Downtown",
+      "owner": "1782912275614",
+      "createdAt": "2026-07-01T13:24:35.654Z"
+    }
+  ],
+  "requests": [
+    {
+      "id": "r1",
+      "title": "Need Pressure Cooker",
+      "description": "For weekend",
+      "createdAt": "2026-06-23T14:39:52.904Z"
+    },
+    {
+      "id": "1782640036085",
+      "title": "need a bicycle",
+      "description": "for a rent",
+      "createdAt": "2026-06-28T09:47:16.085Z"
+    },
+    {
+      "id": "1782910595159",
+      "title": "Need a pressure cooker",
+      "description": "For weekend cooking",
+      "contact": "demo5@example.com",
+      "location": "Downtown",
+      "requester": "1782910595087",
+      "createdAt": "2026-07-01T12:56:35.159Z"
+    },
+    {
+      "id": "1782910785384",
+      "title": "washing machine",
+      "description": "automatic machine",
+      "contact": "9088988978",
+      "location": "agra",
+      "requester": "1782638789980",
+      "createdAt": "2026-07-01T12:59:45.384Z"
+    },
+    {
+      "id": "1782911128433",
+      "title": "Need a drill",
+      "description": "For home renovation",
+      "contact": "finaluser@example.com",
+      "location": "Northside",
+      "requester": "1782911128407",
+      "createdAt": "2026-07-01T13:05:28.433Z"
+    },
+    {
+      "id": "1782912275638",
+      "title": "Need a pressure cooker",
+      "description": "For weekend cooking",
+      "contact": "demo@example.com",
+      "location": "Downtown",
+      "requester": "1782912275614",
+      "createdAt": "2026-07-01T13:24:35.638Z"
+    }
+  ],
+  "reviews": [],
+  "notifications": [
+    {
+      "userId": "1782912978580",
+      "title": "Match shared",
+      "message": "You shared Pressure cooker available with Need a pressure cooker.",
+      "read": false,
+      "createdAt": "2026-07-01T13:36:47.644Z"
+    },
+    {
+      "userId": "1782912978580",
+      "title": "Match shared",
+      "message": "You shared Pressure cooker available with Need a pressure cooker.",
+      "read": false,
+      "createdAt": "2026-07-01T13:38:45.172Z"
+    },
+    {
+      "userId": "1782913395447",
+      "title": "Match shared",
+      "message": "You shared Pressure cooker available with Need a pressure cooker.",
+      "read": false,
+      "createdAt": "2026-07-01T13:43:34.083Z"
+    }
+  ]
+}
